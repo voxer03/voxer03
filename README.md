@@ -22,7 +22,7 @@ I am a **MERN and Blockchain Developer**
 - **Rust** (Solana Development)  
 
 **Tools & Platforms**  
-- **AWS Services** (Cognito, SES, Secrets Manager)  
+- **AWS Services**
 - **Docker & Kubernetes**  
 
 **Databases**  
@@ -31,7 +31,7 @@ I am a **MERN and Blockchain Developer**
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: [suchitkushwaha03@gmail.com]
+- **Email**: suchitkushwaha03@gmail.com
 - **LinkedIn**: [Suchit Kushwaha](www.linkedin.com/in/suchit-kushwaha-95075919b)  
 
 Feel free to explore my repositories and reach out for collaboration! 🚀  
