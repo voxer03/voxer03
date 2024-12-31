@@ -5,7 +5,7 @@ I am a **MERN and Blockchain Developer**
 ---
 
 ## 🚀 About Me  
-<img src="tree.jpg" alt="tree" />
+<img src="1729811179496.jpg" alt="About me" />
   
 ---
 
