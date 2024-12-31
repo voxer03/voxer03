@@ -26,21 +26,20 @@ I am a **MERN and Blockchain Developer**
 - **Docker & Kubernetes**  
 
 **Databases**  
-- **MongoDB, PostgreSQL, MySQL**
-- **Redis with Queue Systems**  
+- **MongoDB, PostgreSQL, MySQL, Redis**  
   
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
+- **Email**: [suchitkushwaha03@gmail.com]
+- **LinkedIn**: [Suchit Kushwaha](www.linkedin.com/in/suchit-kushwaha-95075919b)  
 
 Feel free to explore my repositories and reach out for collaboration! 🚀  
 
 ---
 
 <!--
+- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
 **voxer03/voxer03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
